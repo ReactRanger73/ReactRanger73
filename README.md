@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arzoo Kharayat</h1>
-<h3 align="center">A passionate React developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hell0worid&label=Profile%20views&color=0e75b6&style=flat" alt="hell0worid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactranger73&label=Profile%20views&color=0e75b6&style=flat" alt="reactranger73" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **front-end development**
 
-- 💬 Ask me about **reactjs , AI/ML , my hobbies**
+- 💬 Ask me about **django, reactjs , AI/ML , my hobbies**
 
 - 📫 How to reach me **arzookharayat@gmail.com**
 
